@@ -1,0 +1,6 @@
+build/
+.workflow-state/
+*.state
+*.state.tmp
+.DS_Store
+compile_commands.json
